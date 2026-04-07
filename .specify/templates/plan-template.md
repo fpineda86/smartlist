@@ -38,6 +38,7 @@
 - Patrón Repositorio para almacenamiento de datos
 - Proceso speckit-constitution -> spec -> plan -> tasks -> analyze
 - Documentación IA-friendly para Codex/Gemini
+- Automatización de ramas SPEC-[###]: [Breve-Descripcion]; ningún push a main sin rama SPEC validada
 
 ## Project Structure
 
